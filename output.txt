@@ -1,0 +1,10 @@
+Original Text:
+کیر و کص دالگت کسکش حرام زاده
+
+Cleaned Text:
+و دالگت
+
+Detected Swear Words:
+کیر, کص, کسکش, حرام, زاده
+Percentage of Swear Words:
+71.43%
